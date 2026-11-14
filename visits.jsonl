@@ -1,6 +1,0 @@
-{"time": "2026-11-14 05:00:18", "path": "/offers", "ip": "127.0.0.1", "kind": "visit", "android": "", "model": "", "browser": "", "agent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.22621.4249", "probe": "page"}
-{"time": "2026-11-14 05:00:18", "path": "/app.apk", "ip": "127.0.0.1", "kind": "visit", "android": "", "model": "", "browser": "", "agent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.22621.4249"}
-{"time": "2026-11-14 05:02:16", "path": "/", "ip": "127.0.0.1", "kind": "visit", "android": "", "model": "", "browser": "", "agent": "Python-urllib/3.13", "probe": "page"}
-{"time": "2026-11-14 05:02:16", "path": "/", "ip": "127.0.0.1", "kind": "preview", "android": "", "model": "", "browser": "", "agent": "WhatsApp/2.24.6.77 A", "probe": "page"}
-{"time": "2026-11-14 05:07:31", "path": "/", "ip": "127.0.0.1", "kind": "visit", "android": "", "model": "", "browser": "", "agent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.22621.4249", "probe": "page"}
-{"time": "2026-11-14 05:07:31", "path": "/app.apk", "ip": "127.0.0.1", "kind": "visit", "android": "", "model": "", "browser": "", "agent": "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.22621.4249"}
